@@ -17,16 +17,16 @@ Let's begin by inputting the criteria and then proceed to compare each criterion
 
 In this instance, we will be engaging in the comparative analysis of airplanes.
 
-![criteria](https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/criteria_description/compare.png)
+![criteria](https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/program_output/compare.png)
 
 Following the establishment of criteria, the subsequent step involves inputting options for comparison.
 
-![options](https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/criteria_description/options.png)
+![options](https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/program_output/options.png)
 
 Now we should input data about all of the options based on every criterion. This data will serve as the basis for the comparative analysis.
 
-![compare](https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/criteria_description/compare.png)
+![compare](https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/program_output/compare.png)
 
 Now we can examine the results of the analysis, which will provide insights into the comparison of the options based on the established criteria.
 
-![results](https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/criteria_description/results.png)
+![results](https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/program_output/results.png)
