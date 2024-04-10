@@ -11,26 +11,27 @@ numerical comparisons should not compare more than 7±2 elements.
 
 Let's begin by inputting the criteria and then proceed to compare each criterion with every other based on the tables provided.
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/criteria_description/Saatys-scale-of-relative-importance.png" alt="Saatys-scale1">
-</div>
+</p>
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/criteria_description/Saatys-scale-of-relative-importance-SAATY-2005.png" alt="Saatys-scale2">
-</div>
+</p>
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/program_output/criteria_input.png" alt="criteria">
-</div>
+</p>
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/program_output/options.png" alt="options">
-</div>
+</p>
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/program_output/compare.png" alt="compare">
-</div>
+</p>
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/program_output/results.png" alt="results">
-</div>
+</p>
+
