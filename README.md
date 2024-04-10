@@ -9,8 +9,10 @@ the natural ability of people to think logically and creatively, to determine ev
 establish relations between them. To conduct reasonable
 numerical comparisons should not compare more than 7±2 elements.
 
-Let's begin by inputting the criteria and then proceed to compare each criterion with every other based on the table provided.
+Let's begin by inputting the criteria and then proceed to compare each criterion with every other based on the tables provided.
 
-![Saatys-scale1](https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/criteria_description/Saatys-scale-of-relative-importance-SAATY-2005.png)
+![Saatys-scale1](https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/criteria_description/Saatys-scale-of-relative-importance.png)
+
+
 
 ![Saatys-scale2](https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/criteria_description/Saatys-scale-of-relative-importance-SAATY-2005.png)
