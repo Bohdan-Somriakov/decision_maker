@@ -19,19 +19,28 @@ Let's begin by inputting the criteria and then proceed to compare each criterion
     <img src="https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/criteria_description/Saatys-scale-of-relative-importance-SAATY-2005.png" alt="Saatys-scale2">
 </p>
 
+In this instance, we will be engaging in the comparative analysis of airplanes.
+
 <p align="center">
     <img src="https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/program_output/criteria_input.png" alt="criteria">
 </p>
+
+Following the establishment of criteria, the subsequent step involves inputting options for comparison.
 
 <p align="center">
     <img src="https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/program_output/options.png" alt="options">
 </p>
 
+Now we should input data about all of the options based on every criterion. This data will serve as the basis for the comparative analysis.
+
 <p align="center">
     <img src="https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/program_output/compare.png" alt="compare">
 </p>
 
+Now we can examine the results of the analysis, which will provide insights into the comparison of the options based on the established criteria.
+
 <p align="center">
     <img src="https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/program_output/results.png" alt="results">
 </p>
+
 
