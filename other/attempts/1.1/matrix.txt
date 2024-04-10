@@ -1,0 +1,12 @@
+import numpy as np
+from tkinter import *
+size = int(input("Enter the size of the square matrix: "))
+
+matrix = np.zeros((size, size))
+
+for i in range(size):
+    for j in range(size):
+        matrix[i][j] = int(input())
+print(matrix)
+print(type(matrix))
+

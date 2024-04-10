@@ -1,0 +1,26 @@
+import tkinter as tk
+import numpy as np
+
+def get_input(entry, matrix):
+    user_input = entry.get()
+
+    matrix[0][1] = float(user_input)
+    print(matrix)
+
+matrix = np.zeros((5, 5))
+
+window = tk.Tk()
+window.title("Input Field Example")
+
+entry = tk.Entry(window)
+entry.pack(pady=10)
+
+button = tk.Button(window, text="Get Input", command=lambda: get_input(entry, matrix))
+button.pack()
+
+window.mainloop()
+
+
+print("Modified Matrix outside Tkinter event loop:")
+print(matrix)
+

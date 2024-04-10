@@ -1,0 +1,35 @@
+import tkinter as tk
+import numpy as np
+
+def get_input(entries, matrix):
+    for i, row_entries in enumerate(entries):
+        for j, entry in enumerate(row_entries):
+            matrix[i][j] = entries[i][j].get()
+    print(matrix)
+
+matrix = np.zeros((3, 3))
+
+root = tk.Tk()
+root.title("Input Field Example")
+
+entries_size = 3
+entries = []
+for i in range(entries_size):
+    frame = tk.Frame(root)
+    frame.pack(side="top")
+
+    row_entries = []
+    for j in range(entries_size):
+        entry = tk.Entry(frame, width=3)
+        entry.pack(side="left")
+        row_entries.append(entry)
+
+    entries.append(row_entries)
+button = tk.Button(root, text='Get input', command=lambda: get_input(entries, matrix))
+button.pack(pady=10)
+
+root.mainloop()
+
+
+print("Modified Matrix outside Tkinter event loop:")
+print(matrix)
