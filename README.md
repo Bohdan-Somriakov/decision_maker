@@ -17,7 +17,7 @@ Let's begin by inputting the criteria and then proceed to compare each criterion
 
 In this instance, we will be engaging in the comparative analysis of airplanes.
 
-![criteria](https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/program_output/criteria.png)
+![criteria](https://github.com/Bohdan-Somriakov/decision_maker/blob/main/assets/program_output/criteria_input.png)
 
 Following the establishment of criteria, the subsequent step involves inputting options for comparison.
 
