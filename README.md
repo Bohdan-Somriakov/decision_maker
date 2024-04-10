@@ -11,6 +11,6 @@ numerical comparisons should not compare more than 7±2 elements.
 
 Let's begin by inputting the criteria and then proceed to compare each criterion with every other based on the table provided.
 
-https://github.com/Bohdan-Somriakov/decision_maker/assets/criteria_description/Saatys-scale-of-relative-importance.png
+![Saatys-scale1](https://github.com/Bohdan-Somriakov/decision_maker/assets/criteria_description/Saatys-scale-of-relative-importance.png)
 
-https://github.com/Bohdan-Somriakov/decision_maker/assets/criteria_description/Saatys-scale-of-relative-importance-SAATY-2005.png
+![Saatys-scale2](https://github.com/Bohdan-Somriakov/decision_maker/assets/criteria_description/Saatys-scale-of-relative-importance-SAATY-2005.png)
